@@ -1,0 +1,113 @@
+{
+   "background_authCheckoutAlertAlreadyPaid": {
+      "message": "Your plan is already upgraded."
+   },
+   "background_authCheckoutAlertNotSignedIn": {
+      "message": "You are not authenticated. Please authenticate with a Google account again."
+   },
+   "background_authCheckoutError": {
+      "message": "An error has occured. Please click the upgrade button again."
+   },
+   "background_authSignInAlertAlreadySignedIn": {
+      "message": "You are already authenticated"
+   },
+   "background_authSignInError": {
+      "message": "An error has occurred. "
+   },
+   "manifest_AppDescription": {
+      "message": "The more you move the mouse cursor, the more cats gather from beyond the window."
+   },
+   "manifest_AppTitle": {
+      "message": "MEOWSING"
+   },
+   "option_authStateLabel": {
+      "message": "Account"
+   },
+   "option_authStateValueNotSignedIn": {
+      "message": "Sign In with a Google account"
+   },
+   "option_manageSubscriptionButton": {
+      "message": "Manage Subscriptions"
+   },
+   "option_planLabel": {
+      "message": "Plan"
+   },
+   "option_planValueNotUpgraded": {
+      "message": "Standard"
+   },
+   "option_planValueUpgraded": {
+      "message": "Upgraded"
+   },
+   "option_signOutButton": {
+      "message": "Sign Out"
+   },
+   "option_useLightVersionLabel": {
+      "message": "Use lightweight version?"
+   },
+   "option_useLightVersionLabelInfo": {
+      "message": "Using the lightweight version allows you to suppress memory usage at the expense of reducing the resolution and frame rate of the animation."
+   },
+   "popup_backgroundConnectionError": {
+      "message": "An error has occured. Please try again."
+   },
+   "popup_footerCatAppearanceSliderTooltip": {
+      "message": "You can adjust the frequency of the cats' appearance"
+   },
+   "popup_footerPaymentButton": {
+      "message": "Upgrade"
+   },
+   "popup_footerPaymentGuideFirst": {
+      "message": "Upgrading will make more cats appear"
+   },
+   "popup_footerPaymentGuideSecond": {
+      "message": ""
+   },
+   "popup_headerAppTitleFree": {
+      "message": "MEOWSING.free"
+   },
+   "popup_headerAppTitlePro": {
+      "message": "MEOWSING.pro"
+   },
+   "popup_headerCatExistButtonTooltip": {
+      "message": "When you turn this button ON, cats will appear"
+   },
+   "popup_headerGoogleAuthButton": {
+      "message": "Sign In with Google Account"
+   },
+   "popup_loadingReasonPayment": {
+      "message": "You will be redirected to the payment information input screen. Please wait about 5 seconds..."
+   },
+   "popup_modalDescriptionFirst": {
+      "message": "For a cup of coffee every month,"
+   },
+   "popup_modalDescriptionSecond": {
+      "message": "you can get more cats."
+   },
+   "popup_modalPaymentButtonMonthlyLabel": {
+      "message": "MONTHLY"
+   },
+   "popup_modalPaymentButtonMonthlyPrice": {
+      "message": "＄1.5"
+   },
+   "popup_modalPaymentButtonMonthlyPriceUnit": {
+      "message": "/month"
+   },
+   "popup_modalPaymentButtonYearlyLabel": {
+      "message": "YEARLY"
+   },
+   "popup_modalPaymentButtonYearlyPrice": {
+      "message": "＄12.0"
+   },
+   "popup_modalPaymentButtonYearlyPriceStriked": {
+      "message": "＄18.0"
+   },
+   "popup_modalPaymentButtonYearlyPriceUnit": {
+      "message": "/year"
+   },
+   "popup_paymentButtonAlertAlreadyPaid": {
+      "message": "Your plan is already upgraded. If you could't solve this problem, please contact supper for assistance"
+   },
+   "popup_paymentButtonConfirmGoogleAuth": {
+      "message": "You need to authenticate with a Google account to upgrade your plan. Do you authenticate with a Google account?"
+   }
+}

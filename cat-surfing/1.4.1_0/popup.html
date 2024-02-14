@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Getting Started Extension's Popup</title>
+    <style>
+      body {
+        font-family: 'DotGothic16', sans-serif;
+        background-image: linear-gradient(
+          rgba(50, 50, 50, 1),
+          rgba(120, 120, 120, 1) 15%,
+          rgba(150, 150, 150, 1) 50%,
+          rgba(120, 120, 120, 1) 85%,
+          rgba(50, 50, 50, 1) 100%
+        );
+        width: 320px;
+      }
+
+      .ant-modal-content {
+        background-image: url('resources/popup/payment_modal_background.png');
+        font-family: 'DotGothic16', sans-serif;
+      }
+    </style>
+    <script src="load_font.js"></script>
+    <script src="js/vendor.js"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="js/popup.js"></script>
+  </body>
+</html>

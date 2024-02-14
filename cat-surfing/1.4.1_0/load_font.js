@@ -1,0 +1,1 @@
+const ttf=chrome.runtime.getURL("resources/fonts/DotGothic16/DotGothic16-Regular.ttf");let newStyle=document.createElement("style");newStyle.textContent='@font-face {font-family: "DotGothic16";font-style: normal;src: url("'+ttf+'") format("truetype");}',document.head.appendChild(newStyle);

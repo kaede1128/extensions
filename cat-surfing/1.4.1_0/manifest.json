@@ -1,0 +1,42 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "resources/icons/icon_128.png",
+         "16": "resources/icons/icon_16.png",
+         "48": "resources/icons/icon_48.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "js/background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "js/vendor.js", "js/content_script.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_manifest_AppDescription__",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "resources/icons/icon_128.png",
+      "16": "resources/icons/icon_16.png",
+      "48": "resources/icons/icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoQf9wN3cekPIkizvDsYW2cJYfR//MVFZsAYh6ovu9DCFmNlceI3F8/uNJ8J/NGrVC3T+00s0zeLCe6FEp3hJpcHyVVFXH+QbfUXSSVlRDOfajlA5Vi2dIPbxZwUbxPhJyu6KzZI0dDZ30Pw0GJI+6IDBnGPPFkkEUNLmTVZ2i+fw8WBdc1BMtT0LzlR/xzo1QDYoBzDMnJ0LsYET0TdE+4Fb96mCd1QdzWsbguGtpsReLj95PDYXBev/AHezxPAZkDPdzwMoNfyPfcfld4OoOlpQBBrjLGtBh2gOlyCDfu9WdH5YLqrMxQ6XYzEw/MP3OwrmJqGX0kFVtDNF9f6N4QIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_manifest_AppTitle__",
+   "oauth2": {
+      "client_id": "458514378880-egbeoso5bpoev0s33sdk523h1eqoetiv.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/userinfo.email" ]
+   },
+   "options_ui": {
+      "page": "options.html"
+   },
+   "permissions": [ "storage", "identity" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4.1",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "resources/*.gif", "resources/*.mp3" ]
+   } ]
+}

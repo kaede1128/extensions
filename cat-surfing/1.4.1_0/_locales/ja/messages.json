@@ -1,0 +1,113 @@
+{
+   "background_authCheckoutAlertAlreadyPaid": {
+      "message": "アップグレード済みです"
+   },
+   "background_authCheckoutAlertNotSignedIn": {
+      "message": "アカウントが連携されていません"
+   },
+   "background_authCheckoutError": {
+      "message": "エラーが発生しました。もう一度アップグレードボタンを押してしてください。"
+   },
+   "background_authSignInAlertAlreadySignedIn": {
+      "message": "アカウント連携済みです"
+   },
+   "background_authSignInError": {
+      "message": "エラーが発生しました。もう一度Googleアカウントとの連携を行なってください。"
+   },
+   "manifest_AppDescription": {
+      "message": "あなたの動かすマウスに釣られて、ウィンドウの外からネコたちがやってきます。"
+   },
+   "manifest_AppTitle": {
+      "message": "ネッコサーフィン"
+   },
+   "option_authStateLabel": {
+      "message": "連携済みアカウント"
+   },
+   "option_authStateValueNotSignedIn": {
+      "message": "Googleアカウントと連携"
+   },
+   "option_manageSubscriptionButton": {
+      "message": "サブスクリプションを管理"
+   },
+   "option_planLabel": {
+      "message": "プラン"
+   },
+   "option_planValueNotUpgraded": {
+      "message": "未アップグレード"
+   },
+   "option_planValueUpgraded": {
+      "message": "アップグレード済み"
+   },
+   "option_signOutButton": {
+      "message": "アカウント連携を解除"
+   },
+   "option_useLightVersionLabel": {
+      "message": "軽量版を使用する"
+   },
+   "option_useLightVersionLabelInfo": {
+      "message": "軽量版を使用することで、アニメーションの解像度とフレームレートを下げる代わりに、メモリの使用量を抑制できます。"
+   },
+   "popup_backgroundConnectionError": {
+      "message": "エラーが発生しました。もう一度お試しください。"
+   },
+   "popup_footerCatAppearanceSliderTooltip": {
+      "message": "ネコの増えやすさを調整できます"
+   },
+   "popup_footerPaymentButton": {
+      "message": "アップグレード"
+   },
+   "popup_footerPaymentGuideFirst": {
+      "message": "アップグレードすると"
+   },
+   "popup_footerPaymentGuideSecond": {
+      "message": "もっとネコがやってきます"
+   },
+   "popup_headerAppTitleFree": {
+      "message": "ネッコサーフィン.free"
+   },
+   "popup_headerAppTitlePro": {
+      "message": "ネッコサーフィン.pro"
+   },
+   "popup_headerCatExistButtonTooltip": {
+      "message": "ONにするとネコが出現します"
+   },
+   "popup_headerGoogleAuthButton": {
+      "message": "Googleアカウントと連携"
+   },
+   "popup_loadingReasonPayment": {
+      "message": "決済情報の入力画面に遷移します。5秒ほどお待ちください..."
+   },
+   "popup_modalDescriptionFirst": {
+      "message": "毎月コーヒー１杯分で、"
+   },
+   "popup_modalDescriptionSecond": {
+      "message": "ネコがいっぱいになります。"
+   },
+   "popup_modalPaymentButtonMonthlyLabel": {
+      "message": "月額"
+   },
+   "popup_modalPaymentButtonMonthlyPrice": {
+      "message": "¥ 120"
+   },
+   "popup_modalPaymentButtonMonthlyPriceUnit": {
+      "message": "/月"
+   },
+   "popup_modalPaymentButtonYearlyLabel": {
+      "message": "年額"
+   },
+   "popup_modalPaymentButtonYearlyPrice": {
+      "message": "¥ 980"
+   },
+   "popup_modalPaymentButtonYearlyPriceStriked": {
+      "message": "¥ 1,440"
+   },
+   "popup_modalPaymentButtonYearlyPriceUnit": {
+      "message": "/年"
+   },
+   "popup_paymentButtonAlertAlreadyPaid": {
+      "message": "アップグレード済みです。もう一度ウィンドウを開き直してください。この問題が解決しない場合はサポートまでお問い合わせください。"
+   },
+   "popup_paymentButtonConfirmGoogleAuth": {
+      "message": "アップグレードするにはGoogleアカウントとの連携が必要です。Googleアカウントとの連携を行いますか？"
+   }
+}
